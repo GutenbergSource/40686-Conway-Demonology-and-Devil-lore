@@ -1,0 +1,80 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="364" filedate="2009-07-22 17:13:49" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 21:03:56" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2009-07-22 15:17:10" width="12px" height="12px">
+</image>
+<image path="images/fig101.png" filesize="29446" filedate="2012-08-11 06:46:39" width="445px" height="547px">
+</image>
+<image path="images/fig102.jpg" filesize="78801" filedate="2012-08-11 06:47:28" width="328px" height="717px">
+</image>
+<image path="images/fig103.jpg" filesize="24627" filedate="2012-08-11 06:45:52" width="242px" height="304px">
+</image>
+<image path="images/fig104.png" filesize="41824" filedate="2012-08-12 07:46:01" width="445px" height="601px">
+</image>
+<image path="images/fig105.jpg" filesize="67474" filedate="2012-08-12 07:48:02" width="391px" height="703px">
+</image>
+<image path="images/fig106.png" filesize="37335" filedate="2012-08-12 08:10:31" width="468px" height="585px">
+</image>
+<image path="images/fig107.png" filesize="37073" filedate="2012-08-12 08:12:49" width="404px" height="446px">
+</image>
+<image path="images/fig108.png" filesize="35107" filedate="2012-08-12 11:00:45" width="447px" height="479px">
+</image>
+<image path="images/fig109.png" filesize="20749" filedate="2012-08-12 11:02:39" width="248px" height="368px">
+</image>
+<image path="images/fig110.png" filesize="48091" filedate="2012-08-12 11:04:49" width="431px" height="570px">
+</image>
+<image path="images/fig111.jpg" filesize="56971" filedate="2012-08-12 11:06:39" width="355px" height="501px">
+</image>
+<image path="images/fig112.jpg" filesize="45944" filedate="2012-08-12 11:08:40" width="380px" height="498px">
+</image>
+<image path="images/fig113.png" filesize="59601" filedate="2012-08-12 11:11:05" width="687px" height="529px">
+</image>
+<image path="images/fig114.png" filesize="38026" filedate="2012-08-12 08:15:44" width="281px" height="611px">
+</image>
+<image path="images/fig115.png" filesize="28526" filedate="2012-08-12 11:13:54" width="449px" height="288px">
+</image>
+<image path="images/fig116.png" filesize="49511" filedate="2012-08-13 18:18:01" width="261px" height="592px">
+</image>
+<image path="images/fig117.png" filesize="107333" filedate="2012-08-13 18:20:15" width="489px" height="720px">
+</image>
+<image path="images/fig118.jpg" filesize="64463" filedate="2012-08-12 11:17:19" width="430px" height="720px">
+</image>
+<image path="images/fig119.png" filesize="58587" filedate="2012-08-13 19:43:01" width="493px" height="720px">
+</image>
+<image path="images/fig120.png" filesize="41425" filedate="2012-08-13 19:49:27" width="430px" height="569px">
+</image>
+<image path="images/fig121.png" filesize="54212" filedate="2012-08-13 18:57:05" width="720px" height="458px">
+</image>
+<image path="images/fig122.png" filesize="19653" filedate="2012-08-13 18:24:30" width="359px" height="323px">
+</image>
+<image path="images/fig123.png" filesize="29412" filedate="2012-08-13 18:51:14" width="418px" height="430px">
+</image>
+<image path="images/fig124.png" filesize="8159" filedate="2012-08-12 11:19:18" width="193px" height="189px">
+</image>
+<image path="images/fig125.png" filesize="50172" filedate="2012-08-13 18:53:47" width="417px" height="403px">
+</image>
+<image path="images/fig126.jpg" filesize="57690" filedate="2012-08-13 19:06:29" width="558px" height="387px">
+</image>
+<image path="images/fig127.png" filesize="19586" filedate="2012-08-13 18:22:27" width="394px" height="460px">
+</image>
+<image path="images/fig128.jpg" filesize="67841" filedate="2012-08-13 19:47:04" width="519px" height="420px">
+</image>
+<image path="images/fig129.png" filesize="55546" filedate="2012-08-13 19:39:08" width="581px" height="443px">
+</image>
+<image path="images/fig130.jpg" filesize="58097" filedate="2012-08-13 19:45:00" width="543px" height="442px">
+</image>
+<image path="images/fig131.png" filesize="25377" filedate="2012-08-13 19:08:54" width="486px" height="490px">
+</image>
+<image path="images/fig132.png" filesize="21080" filedate="2012-08-12 07:50:39" width="481px" height="365px">
+</image>
+<image path="images/logo.jpg" filesize="7886" filedate="2012-08-12 08:18:02" width="151px" height="168px">
+</image>
+<image path="images/new-cover-tn.jpg" filesize="10206" filedate="2017-12-19 20:00:22" width="213px" height="320px">
+</image>
+<image path="images/new-cover.jpg" filesize="48571" filedate="2017-12-19 19:59:52" width="480px" height="720px">
+</image>
+<image path="images/titlepage.png" filesize="15377" filedate="2012-09-03 17:46:54" width="406px" height="720px">
+</image>
+</images>
